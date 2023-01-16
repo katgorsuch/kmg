@@ -1,23 +1,21 @@
-<style>
-    body {
-        background-color: bisque;
-    }
+body {
+    background-color: bisque;
+}
 
-    hr {
+hr {
 
-        border-style: none;
-        border-top-style: dotted;
-        border-color: black;
-        border-width: 7px;
-        width: 40%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 7px;
+    width: 40%;
 
-    }
+}
 
-    h1 {
-        color: #66BFBF;
-    }
+h1 {
+    color: #66BFBF;
+}
 
-    h3 {
-        color: #66BFBF;
-    }
-</style>
+h3 {
+    color: #66BFBF;
+}
