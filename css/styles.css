@@ -1,6 +1,8 @@
 body {
     background-color: bisque;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+
 
 hr {
 
@@ -16,6 +18,26 @@ h1 {
     color: #66BFBF;
 }
 
+/*
 h3 {
     color: #66BFBF;
+}
+*/
+
+.year {
+    color: #6b06138e;
+    font-variant-caps: all-small-caps;
+}
+
+.title {
+    color: #2818bd79;
+    
+}
+
+.home {
+    color: rgb(156, 196, 248);
+}
+
+.imageround {
+    border-radius: 50% 20% / 10% 40%;;
 }
