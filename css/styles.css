@@ -41,3 +41,7 @@ h3 {
 .imageround {
     border-radius: 50% 20% / 10% 40%;;
 }
+
+.center {
+    text-align: center;
+}
